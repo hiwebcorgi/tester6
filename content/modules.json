@@ -1,0 +1,54 @@
+{
+  "modules": [
+    {
+      "id": "notice",
+      "name": "Notice",
+      "path": "/notice",
+      "icon": "megaphone",
+      "active": true,
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 1
+    },
+    {
+      "id": "blog",
+      "name": "Blog",
+      "path": "/blog",
+      "icon": "book-open",
+      "active": true,
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 2
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "path": "/portfolio",
+      "icon": "briefcase",
+      "active": false,
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 3
+    },
+    {
+      "id": "careers",
+      "name": "Careers",
+      "path": "/careers",
+      "icon": "user-plus",
+      "active": false,
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 4
+    },
+    {
+      "id": "contact",
+      "name": "Contact",
+      "path": "/contact",
+      "icon": "mail",
+      "active": false,
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 5
+    }
+  ]
+}
