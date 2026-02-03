@@ -1,0 +1,266 @@
+{
+  "navbar": {
+    "ctaButton": "지금 탈출하기"
+  },
+  "hero": {
+    "badge": "⚡ Web Development Revolution",
+    "title": "사장님, 언제까지\n홈페이지",
+    "highlight": "'월세'",
+    "titleSuffix": "를\n내실 겁니까?",
+    "description": "초기 제작비 1회면 끝입니다. 평생 유지비 0원,\n코딩 몰라도 직접 수정하는 GUI 엔진을 탑재한\nZero-Cost Web Factory가 시작합니다.",
+    "ctaText": "유지비 탈출 상담하기",
+    "ctaSubtext": "Vercel + Next.js 인프라 지원"
+  },
+  "stats": [
+    {
+      "value": "0원",
+      "label": "평생 유지비"
+    },
+    {
+      "value": "100GB+",
+      "label": "월 트래픽"
+    },
+    {
+      "value": "5배",
+      "label": "빠른 속도"
+    }
+  ],
+  "comparison": {
+    "title": "사장님의 돈이\n줄줄 새고 있는 이유",
+    "description": "대부분의 홈페이지 업체는 사장님을 '플랫폼'에 가속시킵니다.\n매달 나가는 관리비 3만원, 작은 글자 하나 바꾸는데 5만원...\n3년만 지나도 수백만 원이 사라집니다.\n\n\"대기업은 관리가 필요하지만, 소상공인에게 월 1만 원도 낭비입니다.\"",
+    "problemList": [
+      "업체 종속형 서버 (월 비용 발생)",
+      "텍스트/이미지 수정 시 매번 추가 비용",
+      "국내 호스팅의 짠물 트래픽 (일일 제한)",
+      "오래된 기술로 인한 느린 속도"
+    ],
+    "tableNote": "3-Year Cost Analysis",
+    "tableHeaders": {
+      "item": "항목",
+      "legacy": "타 솔루션",
+      "zeropack": "ZEROPACK"
+    },
+    "tableRows": [
+      {
+        "item": "서버/호스팅비",
+        "legacy": "108만 원",
+        "zeropack": "0원"
+      },
+      {
+        "item": "트래픽/용량",
+        "legacy": "일 500MB 제한",
+        "zeropack": "월 100GB (약 10배↑)"
+      },
+      {
+        "item": "디자인 수정",
+        "legacy": "회당 5만↑",
+        "zeropack": "무제한 (직접 수정)"
+      }
+    ],
+    "tableSummary": {
+      "label": "합계 (3년 기준)",
+      "legacy": "1,080,000원+",
+      "zeropack": "0원"
+    }
+  },
+  "features": {
+    "badge": "🚀 Revolutionary Features",
+    "title": "왜 10배 더\n혁신적인가?",
+    "description": "비용만 아끼는게 아닙니다. 기능도, 성능도, 관리도 압도적입니다.",
+    "cards": [
+      {
+        "title": "템플릿 선택,",
+        "highlight": "직접 수정",
+        "points": [
+          "미려한 디자인 템플릿 중 선택",
+          "텍스트·이미지 직접 변경",
+          "코딩 지식 불필요"
+        ],
+        "variant": "default",
+        "span": ""
+      },
+      {
+        "title": "유지비",
+        "highlight": "0원 Forever",
+        "points": [
+          "Vercel/GitHub 글로벌 인프라",
+          "월 100GB 트래픽 무료",
+          "국내 호스팅 대비 10배↑ 용량"
+        ],
+        "variant": "accent",
+        "span": ""
+      },
+      {
+        "title": "압도적 SEO",
+        "highlight": "5배 빠른 속도",
+        "points": [
+          "일반 사이트 대비 5배 고속",
+          "모바일/태블릿 완벽 대응",
+          "검색 최적화 자동 적용"
+        ],
+        "variant": "default",
+        "span": ""
+      },
+      {
+        "title": "필수 기능",
+        "highlight": "All-in-One",
+        "points": [
+          "문의폼 + 게시판 + FAQ",
+          "공지사항 관리 시스템",
+          "모든 기능 유지비 0원"
+        ],
+        "variant": "default",
+        "span": ""
+      },
+      {
+        "title": "리스크 제로 보장",
+        "highlight": "200% 환불 약속",
+        "points": [
+          "유지비 10원이라도 발생 시 제작비 200% 환불",
+          "모든 소유권·인프라 100% 고객 이전",
+          "제작자 개입 완전 종료 후 인계"
+        ],
+        "variant": "strong",
+        "span": "md:col-span-2"
+      }
+    ]
+  },
+  "targetAudience": {
+    "badge": "Target Audience",
+    "title": "대규모 엔터프라이즈가 아닌,\n합리적 리더를 위해 설계되었습니다 !!",
+    "description": "매월 수천만 명의 트래픽을 감당해야 하는 대형 플랫폼이 아니라면,\n고정비가 발생하는 기존 호스팅은 낭비입니다. 실속과 브랜딩에 집중하세요.",
+    "cards": [
+      {
+        "title": "중소·중견기업 / 스타트업",
+        "text": "매달 나가는 고정비를 0원으로 줄이고, 브랜드 가치에 더 투자하고 싶은 합리적 대표님"
+      },
+      {
+        "title": "병의원 / 로펌 / 전문직",
+        "text": "고객에게 신뢰감을 주는 빠른 속도와 깔끔한 디자인이 필수적인 전문직 종사자"
+      },
+      {
+        "title": "1인 기업 / 크리에이터",
+        "text": "나만의 포트폴리오와 홍보 채널이 필요하지만, 큰 초기 투자는 부담스러운 전문가"
+      },
+      {
+        "title": "유지보수 스트레스 ZERO",
+        "text": "복잡한 서버 관리나 보안 업데이트 걱정 없이, 본업에만 집중하고 싶은 사장님"
+      }
+    ]
+  },
+  "techStack": {
+    "title": "압도적 성능의 비밀",
+    "description": "Facebook, Netflix, Uber가 사용하는 최신 기술 스택(React, Next.js)을 귀사의 홈페이지에 그대로 적용했습니다."
+  },
+  "process": {
+    "title": "- 서비스 프로세스 -",
+    "steps": [
+      {
+        "number": "01",
+        "title": "주문 및 템플릿 선택",
+        "description": "업종별 최적 디자인 고르기"
+      },
+      {
+        "number": "02",
+        "title": "엔진 배포",
+        "description": "0원 유지비 인프라 즉시 구축"
+      },
+      {
+        "number": "03",
+        "title": "GUI 활성화",
+        "description": "사장님 전용 시각적 편집 도구 세팅"
+      },
+      {
+        "number": "04",
+        "title": "소유권 이전",
+        "description": "모든 권한 100% 양도 (제작자 개입 종료)"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "투명한 가격 정책",
+    "description": "한 달 치 광고비도 안 되는 비용으로 평생 유지되는 사옥을 지어드립니다.",
+    "vatText": "VAT 별도 기준",
+    "plans": [
+      {
+        "name": "Standard",
+        "price": "15만",
+        "description": "유지비 0원 홍보형 랜딩페이지",
+        "features": [
+          "원페이지 구성",
+          "GUI 편집 기능",
+          "기본 SEO"
+        ],
+        "buttonText": "선택하기",
+        "bestChoice": false
+      },
+      {
+        "name": "Deluxe",
+        "price": "35만",
+        "description": "아임웹처럼 직접 고치는 홈페이지",
+        "features": [
+          "다중 페이지 구성",
+          "직접 수정 GUI 엔진",
+          "문의폼 / 게시판 / FAQ",
+          "도메인 연결"
+        ],
+        "buttonText": "선택하기",
+        "bestChoice": true
+      },
+      {
+        "name": "Premium",
+        "price": "55만",
+        "description": "비즈니스 자동화 솔루션",
+        "features": [
+          "고도화된 디자인",
+          "실시간 DB 연동",
+          "맞춤형 기능 추가",
+          "1:1 집중 관리"
+        ],
+        "buttonText": "선택하기",
+        "bestChoice": false
+      }
+    ]
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "description": "궁금한 점이 있으신가요?",
+    "contactTitle": "추가 문의가 있으신가요?",
+    "contactButton": "실시간 채팅 상담하기",
+    "items": [
+      {
+        "question": "정말 유지비가 0원인가요?",
+        "answer": "네. Vercel의 압도적인 인프라 덕분에 국내 호스팅 대비 10배 이상의 트래픽(월 100GB)까지는 평생 무료입니다. 만약 이 거대한 용량조차 초과하게 된다면, 그때는 Vercel 정책에 따라 소액의 비용이 발생할 수 있습니다. 비용지불도 고객님께서 Vercel에 수락해야 지불이 시작되는것이기 때문에, 내가 모르는 돈은 절대 나가지 않습니다."
+      },
+      {
+        "question": "수정은 어렵지 않나요?",
+        "answer": "블로그 글쓰기보다 쉽습니다. 제공되는 관리자 화면(GUI 제공)에서 텍스트를 클릭하고 수정하면 즉시 홈페이지에 반영됩니다. 개발 지식이 전혀 필요 없습니다."
+      },
+      {
+        "question": "도메인은 어떻게 하나요?",
+        "answer": "도메인 구입 비용(1년 약 3만원)은 유일하게 발생하는 실비이지만, 자체 도메인인 username.corg.app 으로 도메인마저 무료제공해드리고 있습니다. 다른 이름으로 바꾸고 싶으시다면 가비아, 후이즈 등 도메인 등록 대행사에서 직접 구매하시면 되고, 구매 후에 도메인 연결방법도 확실하게 알려드립니다."
+      },
+      {
+        "question": "문의폼, 게시판 기능도 되나요?",
+        "answer": "네, 가능합니다. 일반적인 소개 페이지뿐만 아니라 고객 문의를 받는 폼, 공지사항 게시판, FAQ 등 다양한 기능을 유지비 0원으로 구현해 드립니다."
+      },
+      {
+        "question": "트래픽 용량은 충분한가요?",
+        "answer": "국내 저가형 호스팅 대비 약 10배 이상의 트래픽을 무료로 제공합니다. 월 100GB의 대역폭은 일반적인 소상공인 홈페이지가 감당하기 충분한 수치입니다."
+      },
+      {
+        "question": "제작 기간은 얼마나 걸리나요?",
+        "answer": "결제 완료 후 자료를 전달해 주시면 평균 2~3일 이내에 세팅이 완료됩니다. 빠른 론칭을 원하시는 사장님들께 최적화되어 있습니다."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "리스크 제로 보장",
+    "description": "제작 후 평생 유지비 0원이 아님이 확인될 경우,\n이유 불문 제작비의 200%를 환불해 드립니다.",
+    "buttonText": "선착순 도입 문의하기",
+    "limitText": "이번 달 잔여 TO: 3팀"
+  },
+  "footer": {
+    "copyright": "© 2026 Zero-Cost Web Factory. All rights reserved."
+  }
+}
