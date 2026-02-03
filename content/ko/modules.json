@@ -1,0 +1,76 @@
+{
+  "modules": [
+    {
+      "id": "notice",
+      "name": "공지사항",
+      "type": "board",
+      "active": true,
+      "path": "/notice",
+      "icon": "📢",
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 1,
+      "description": "최신 소식과 업데이트를 확인하세요"
+    },
+    {
+      "id": "faq",
+      "name": "FAQ",
+      "type": "board",
+      "active": true,
+      "path": "/#faq",
+      "icon": "❓",
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 2,
+      "description": "자주 묻는 질문과 답변"
+    },
+    {
+      "id": "contact",
+      "name": "문의하기",
+      "type": "form",
+      "active": true,
+      "path": "/contact",
+      "icon": "📧",
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 3,
+      "description": "궁금한 점을 문의해주세요"
+    },
+    {
+      "id": "portfolio",
+      "name": "포트폴리오",
+      "type": "gallery",
+      "active": true,
+      "path": "/portfolio",
+      "icon": "🎨",
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 4,
+      "description": "우리의 작업물을 확인하세요"
+    },
+    {
+      "id": "blog",
+      "name": "블로그",
+      "type": "board",
+      "active": true,
+      "path": "/blog",
+      "icon": "📝",
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 5,
+      "description": "인사이트와 노하우 공유"
+    },
+    {
+      "id": "careers",
+      "name": "채용",
+      "type": "board",
+      "active": true,
+      "path": "/careers",
+      "icon": "💼",
+      "navbarVisible": true,
+      "footerVisible": true,
+      "order": 6,
+      "description": "함께 성장할 팀원을 찾습니다"
+    }
+  ]
+}
