@@ -1,0 +1,25 @@
+{
+  "notices": [
+    {
+      "title": "test",
+      "content": "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest\ntest\ntest\ntesttesttestv\nv\ntest\ntest\nv\nv\nv\ntest\ntest\ntest\nv\ntest\ntest\ntest\ntest\nv\ntest\nv\nv\ntest\ntest\ntest\ntest\ntest\nvv",
+      "important": false,
+      "id": "3",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "test",
+      "content": "testtest",
+      "important": true,
+      "id": "2",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "ZeroPack 서비스 오픈 안내!!!",
+      "content": "안녕하세요, ZeroPack입니다.\n\n드디어 ZeroPack 서비스가 정식으로 오픈했습니다!\n\n## 주요 특징\n- 클릭 2번으로 완전 자동 배포\n- 월 유지비 0원 (Vercel Free Tier)\n- 8종의 프리미엄 템플릿\n- GitHub에 100% 내 코드 소유\n\n많은 이용 부탁드립니다. 감사합니다.",
+      "important": true,
+      "id": "1",
+      "date": "2026-01-20"
+    }
+  ]
+}
