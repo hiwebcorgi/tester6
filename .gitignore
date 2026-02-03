@@ -1,0 +1,31 @@
+# TinaCMS
+# Note: __generated__ files are committed for self-hosted mode
+
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+.next
+out
+dist
+build
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+*.log
+
+# Vercel
+.vercel
+
+pnpm-lock.yaml
+.env*.local
+
+.agent
+
+zeropack-d771fdf11076.json
