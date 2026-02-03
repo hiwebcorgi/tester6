@@ -1,0 +1,12 @@
+{
+    "title": "문의하기",
+    "description": "궁금하신 사항이 있으시면 언제든지 문의해 주세요. 빠르게 답변 드리겠습니다.",
+    "contactInfo": {
+        "email": "contact@zeropack.corg.app",
+        "phone": "010-0000-0000",
+        "address": "서울특별시 강남구",
+        "businessHours": "평일 09:00 - 18:00"
+    },
+    "formTitle": "문의 남기기",
+    "formDescription": "아래 양식을 작성해 주시면 빠른 시일 내에 답변 드리겠습니다."
+}
