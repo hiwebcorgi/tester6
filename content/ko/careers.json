@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "title": "test",
+      "type": "정규직",
+      "location": "서울",
+      "department": "개발팀",
+      "description": "test",
+      "requirements": [
+        "test"
+      ],
+      "benefits": [
+        "testtesttesttest"
+      ],
+      "deadline": "2026-01-22",
+      "applicationEmail": "careers@zeropack.io",
+      "id": "3",
+      "postedDate": "2026-01-23",
+      "active": true
+    },
+    {
+      "title": "Frontend Developer",
+      "type": "정규직",
+      "location": "서울",
+      "department": "개발팀",
+      "description": "React와 Next.js를 활용한 프론트엔드 개발자를 모집합니다!!!!!!!!!!!!!",
+      "requirements": [
+        "React 3년 이상 경력!!!",
+        "TypeScript 사용 경험",
+        "Next.js 프로젝트 경험",
+        "반응형 웹 디자인 이해"
+      ],
+      "benefits": [
+        "연봉 협의",
+        "재택근무 가능",
+        "자율 출퇴근",
+        "최신 장비 지원"
+      ],
+      "deadline": "2026-02-28",
+      "applicationEmail": "careers@zeropack.io",
+      "id": "1",
+      "postedDate": "2026-01-10",
+      "active": true
+    }
+  ]
+}
